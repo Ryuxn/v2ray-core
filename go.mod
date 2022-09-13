@@ -14,7 +14,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.8
-	github.com/gorilla/websocket v1.5.0
+	github.com/ryuxn/websocket v1.5.0-WSS
 	github.com/jhump/protoreflect v1.12.0
 	github.com/kierdavis/cfb8 v0.0.0-20180105024805-3a17c36ee2f8
 	github.com/lucas-clemente/quic-go v0.28.1
